@@ -1,4 +1,3 @@
-// src/App.js
 import React from 'react';
 import { Container, CssBaseline } from '@mui/material';
 import ProductList from './components/ProductList';
